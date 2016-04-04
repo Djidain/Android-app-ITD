@@ -1,0 +1,2 @@
+Description:
+Android-app-IDT est une application android de gestion des restaurants. 
